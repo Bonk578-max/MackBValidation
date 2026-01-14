@@ -33,7 +33,7 @@ namespace MackBMCValidation.Services
 
            else
             {
-                return "Please enter a valid question.";
+                return "Please enter a valid question. It must contain a ? at the end";
             }
         }
     }

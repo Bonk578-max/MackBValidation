@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ep4cjrEn+ss=",
+  "dgSpecHash": "Skc1aabNkXA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mbryc\\Downloads\\MCEightToTen---Endpoints-main\\MCEightToTen---Endpoints-main\\MCEightToTen\\MackBMCValidation.csproj",
+  "projectFilePath": "C:\\Users\\mbryc\\Downloads\\MackBMCValidation\\MackBMCValidation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mbryc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mbryc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",

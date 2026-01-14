@@ -3584,11 +3584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mbryc\\Downloads\\MCEightToTen---Endpoints-main\\MCEightToTen---Endpoints-main\\MCEightToTen\\MackBMCValidation.csproj",
+      "projectUniqueName": "C:\\Users\\mbryc\\Downloads\\MackBMCValidation\\MackBMCValidation.csproj",
       "projectName": "MackBMCValidation",
-      "projectPath": "C:\\Users\\mbryc\\Downloads\\MCEightToTen---Endpoints-main\\MCEightToTen---Endpoints-main\\MCEightToTen\\MackBMCValidation.csproj",
+      "projectPath": "C:\\Users\\mbryc\\Downloads\\MackBMCValidation\\MackBMCValidation.csproj",
       "packagesPath": "C:\\Users\\mbryc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mbryc\\Downloads\\MCEightToTen---Endpoints-main\\MCEightToTen---Endpoints-main\\MCEightToTen\\obj\\",
+      "outputPath": "C:\\Users\\mbryc\\Downloads\\MackBMCValidation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mbryc\\AppData\\Roaming\\NuGet\\NuGet.Config"
