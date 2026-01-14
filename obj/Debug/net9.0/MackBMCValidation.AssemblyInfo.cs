@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MackBMCValidation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7640b75e8f16d17238fc3a4c23a3a662bc6c1f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a43695cd7f056166e0c7fbda80a65b7109f5e58")]
 [assembly: System.Reflection.AssemblyProductAttribute("MackBMCValidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MackBMCValidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
