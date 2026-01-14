@@ -1,11 +1,9 @@
-// Your name 
+// Bryce Mack
 
- // Date Revised: This is the last day you saved. 
+ // Date Revised: 1/14/26 
 
- // Exercise or Lab name 
+ // Mc Eight to Ten Vailidation
 
- // Brief Description of what you did. 
-
- // You can add multiple dates with description.
-
+ // Made 3 controllers and endpoints that Do various things.
+ 
 // Review: Brandon Van Horn - Looks good and the code run well and meets the requirements for each section good work!
